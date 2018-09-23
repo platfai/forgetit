@@ -1,0 +1,3 @@
+print("I will now count") #this line prints the text I will now count
+print("cars", 50 + 258 /2)
+print(3+2<5-7)
